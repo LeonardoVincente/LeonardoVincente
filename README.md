@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeonardoVincente
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on React related projects
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on Product projects
 - 📫 How to reach me linked in https://www.linkedin.com/in/ingleonardohernandez/
 
 <!---
